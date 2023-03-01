@@ -1,0 +1,18 @@
+.corpo {
+    margin-top: 9rem;
+    margin-left: 4rem;
+    margin-right: 2rem;
+    margin-bottom: 3rem;
+}
+.card {
+    margin-top: 3rem;
+    color: rgb(210, 210, 210);
+}
+.card-body {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-flow: column nowrap;
+}
+#buttonA {
+    margin-bottom: 2rem;
+}
